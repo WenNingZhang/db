@@ -46,6 +46,6 @@
 
  而mongodb 的从库是一定不可写入的。减少人为的干预的可能性，从数据一致性上得到了保证。
 
-
+![primary-secondary-001](./primary-secondary-001.png)
 
 
