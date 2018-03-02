@@ -1,3 +1,7 @@
+
+本篇文章翻译自
+http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+
 当输入 `URL` 后发生了什么? facebook.com
 
 1. 输入URL 地址
